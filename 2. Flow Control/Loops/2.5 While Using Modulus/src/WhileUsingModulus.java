@@ -13,6 +13,7 @@ public class WhileUsingModulus
             count++;
          }
          num++;
+          System.out.println(count);
       }
    }
 }
